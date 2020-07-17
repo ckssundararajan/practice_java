@@ -1,6 +1,9 @@
 public class hello {
 public static voidd main(String [] args) {
+Scanner scc= new Scanner(System.in);
 System.out.println("hello world");
 System.out.println("My first github");
+String name=sc.nextLine();
+System.out.println(name);
 }
 }
