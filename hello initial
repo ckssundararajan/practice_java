@@ -1,5 +1,6 @@
 public class hello {
 public static voidd main(String [] args) {
 System.out.println("hello world");
+System.out.println("My first github");
 }
 }
